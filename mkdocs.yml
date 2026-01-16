@@ -49,8 +49,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
   
-  logo: assets/holobionts_logo_white.webp
-  favicon: assets/favicon.png
+  logo: assets/holobionts_logo_minimal_white.webp
+  favicon: assets/holobionts_logo_minimal_white.webp
 
 # Extensions
 markdown_extensions:
