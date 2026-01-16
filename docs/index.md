@@ -1,3 +1,6 @@
+hide:
+  - toc
+
 # Welcome to Max Planck Tandem Group in Holobiont Research!
 
 ![Group Photo](assets/holobionts_logo_salvia.webp){ align=center width=600 }
