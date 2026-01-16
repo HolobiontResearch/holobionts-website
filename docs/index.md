@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-<h1 align="center">Welcome to Max Planck Tandem Group in Holobiont Research!</h1>
+<h1 align="center">Welcome to the Max Planck Tandem Group in Holobiont Research!</h1>
 
 <figure markdown="span">
 ![Group Photo](assets/holobionts_logo_salvia.webp){ align=center width=600 }
@@ -18,17 +18,17 @@ We are a research group at **Universidad Nacional de Colombia** focused on advan
 !!! success "Recent Achievement"
     We recently published our work on [topic] in [journal/conference]. [Read more →](research/publications.md)
 
-- **[Research Area 1]**: Brief description of this research direction
-- **[Research Area 2]**: Brief description of this research direction
-- **[Research Area 3]**: Brief description of this research direction
+- **Community genetic diversity as a public good for evolution of innovative functions**: [Description]
+- **The genomic basis for cooperation in bacteria**: [Description]
+- **Tools for exploring fine-level diversity in microbial communities**: [Description]
 
 ## Latest News
 
-**January 2024** - New PhD position available! [Details here](team/join.md)
+**January 2026** - New PhD position available! [Details here](team/join.md)
 
-**December 2023** - Paper accepted at [Conference Name]
+**August 2025** - Several students presented their work at [ISME-lat 2025!](https://ismelat2025.org/)
 
-**November 2023** - Welcome to our new postdoc, Dr. [Name]
+**June 2025** - Several students presented their work at [Bogota Microbial Meeting (BOMM)!](https://www.bogotamicrobialmeeting.com/)
 
 [All news →](news.md){ .md-button }
 
