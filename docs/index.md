@@ -1,9 +1,15 @@
+---
 hide:
+  - navigation
   - toc
+---
 
-# Welcome to Max Planck Tandem Group in Holobiont Research!
+<h1 align="center">Welcome to Max Planck Tandem Group in Holobiont Research!</h1>
 
+<figure markdown="span">
 ![Group Photo](assets/holobionts_logo_salvia.webp){ align=center width=600 }
+<figcaption></figcaption>
+</figure>
 
 We are a research group at **Universidad Nacional de Colombia** focused on advancing knowledge in the mechanisms that determine the diversity patterns of microbial communities of agricultural and livestock systems. Our work combines molecular biology and bioinformatics to address fundamental challenges in microbial ecology.
 
@@ -24,7 +30,7 @@ We are a research group at **Universidad Nacional de Colombia** focused on advan
 
 **November 2023** - Welcome to our new postdoc, Dr. [Name]
 
-[All news →](news.md)
+[All news →](news.md){ .md-button }
 
 ## Funding & Collaborations
 
