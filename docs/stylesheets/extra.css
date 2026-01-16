@@ -1,0 +1,114 @@
+/* Team member cards styling */
+.md-typeset .grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.md-typeset .grid.cards > * {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  padding: 1rem;
+  transition: box-shadow 0.2s;
+}
+
+.md-typeset .grid.cards > *:hover {
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+/* Profile images */
+.md-typeset img[src*="team"] {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+/* Publication list styling */
+.md-typeset ol {
+  margin-left: 0;
+  padding-left: 1.5em;
+}
+
+.md-typeset ol > li {
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+/* Link buttons for papers */
+.md-typeset a[href*="PDF"],
+.md-typeset a[href*="Code"],
+.md-typeset a[href*="arXiv"],
+.md-typeset a[href*="DOI"] {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  margin: 0.2rem;
+  font-size: 0.85em;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 0.2rem;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.md-typeset a[href*="PDF"]:hover,
+.md-typeset a[href*="Code"]:hover,
+.md-typeset a[href*="arXiv"]:hover,
+.md-typeset a[href*="DOI"]:hover {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+/* News items */
+.md-typeset .news-item {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid var(--md-primary-fg-color);
+  background-color: var(--md-default-bg-color);
+}
+
+.md-typeset .news-date {
+  font-weight: bold;
+  color: var(--md-primary-fg-color);
+  margin-bottom: 0.5rem;
+}
+
+/* Tables for team members */
+.md-typeset table {
+  font-size: 0.9em;
+}
+
+.md-typeset table th {
+  background-color: var(--md-default-fg-color--lightest);
+  font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset .grid.cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Custom admonition colors */
+.md-typeset .admonition.success {
+  border-color: #00c853;
+}
+
+.md-typeset .admonition.success > .admonition-title {
+  background-color: rgba(0, 200, 83, 0.1);
+}
+
+/* Hero section on homepage */
+.md-typeset .hero {
+  padding: 2rem;
+  text-align: center;
+  background: linear-gradient(135deg, var(--md-primary-fg-color--light) 0%, var(--md-primary-fg-color) 100%);
+  color: white;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.md-typeset .hero h1 {
+  color: white;
+  margin-bottom: 1rem;
+}

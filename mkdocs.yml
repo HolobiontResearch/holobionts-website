@@ -1,0 +1,117 @@
+site_name: Max Planck Tandem Group in Holobiont Research
+site_url: https://holobionts.xyz
+site_author: Alejandro Caro-Quintero PhD
+site_description: Research group focused understanding the mechanisms that determine the diversity patterns of microbial communities of agricultural and livestock systems.
+
+# Repository
+repo_name: HolobiontResearch/holobionts-website
+repo_url: https://github.com/HolobiontResearch/holobionts-website
+
+# Copyright
+copyright: Copyright &copy; 2025 Max Planck Tandem Group in Holobiont Research
+
+# Theme configuration
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  font:
+    text: Roboto
+    code: Roboto Mono
+  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  
+  icon:
+    repo: fontawesome/brands/github
+  
+  logo: assets/holobionts_logo_white.webp
+  favicon: assets/favicon.png
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  - search
+  - tags
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Research:
+      - Overview: research/index.md
+      - Projects: research/projects.md
+      - Publications: research/publications.md
+  - Team:
+      - Members: team/index.md
+      - Alumni: team/alumni.md
+      - Join Us: team/join.md
+  - News: news.md
+  - Resources:
+      - Software: resources/software.md
+      - Datasets: resources/datasets.md
+      - Teaching: resources/teaching.md
+  - Contact: contact.md
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourgroup
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/yourgroup
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/yourgroup
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+# CSS customization
+extra_css:
+  - stylesheets/extra.css
