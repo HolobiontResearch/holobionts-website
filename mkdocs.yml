@@ -30,11 +30,11 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  
+
   font:
     text: Roboto
     code: Roboto Mono
-  
+
   features:
     - navigation.tabs
     - navigation.sections
@@ -45,10 +45,10 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  
+
   icon:
     repo: fontawesome/brands/github
-  
+
   logo: assets/holobionts_logo_minimal_white.webp
   favicon: assets/holobionts_logo_minimal_white.webp
 
