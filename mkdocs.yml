@@ -103,11 +103,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourgroup
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/yourgroup
+      link: https://github.com/HolobiontResearch
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/yourgroup
+      link: https://linkedin.com/in/
   analytics:
     provider: google
     property: G-XXXXXXXXXX
