@@ -112,3 +112,14 @@
   color: white;
   margin-bottom: 1rem;
 }
+
+/* Tab font size */
+.md-tabs__link {
+  font-size: 0.9rem;
+  padding: 0 2.5rem;
+  line-height: 1.5rem;
+}
+
+.md-tabs {
+  height: 3rem;  /* Default is ~2.4rem */
+}
