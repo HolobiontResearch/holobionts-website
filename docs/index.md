@@ -32,10 +32,12 @@ We are a research group at **Universidad Nacional de Colombia** focused on advan
 
 [All news →](news.md){ .md-button }
 
-## Funding & Collaborations
+## Funding 
 
 Our research is generously supported by:
 
-- [Funding Agency 1]
-- [Funding Agency 2]
-- [Industrial Partner]
+[ ![Photo](assets/logo_unal.png#only-light){ align=left width=400 } ](https://ciencias.bogota.unal.edu.co/areas_curriculares/biologia/)
+[ ![Photo](assets/logo_unal_white.png#only-dark){ align=left width=400 } ](https://ciencias.bogota.unal.edu.co/areas_curriculares/biologia/)
+[ ![Photo](assets/logo_max_green.webp#only-light){ align=left width=400 } ](https://www.mpg.de/en/international/latin-america)
+[ ![Photo](assets/logo_max_white.webp#only-dark){ align=left width=400 } ](https://www.mpg.de/en/international/latin-america)
+
