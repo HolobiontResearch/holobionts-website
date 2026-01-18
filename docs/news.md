@@ -8,7 +8,7 @@
     We are excited to launch our new research group website! Stay tuned for updates on our research, publications, and opportunities to join our team.
 
 ---
-
+<!--
 ## 2025
 
 ### December 2025
@@ -45,17 +45,4 @@
 
 ---
 
-## Archive
-
-For older news, please see our [archived announcements](#).
-
----
-
-## Subscribe
-
-Want to stay updated on our research? Follow us on:
-
-- :fontawesome-brands-github: [GitHub](https://github.com/HolobiontResearch)
-- :fontawesome-brands-twitter: [Twitter/X](#)
-
-Or contact us to join our mailing list.
+-->
