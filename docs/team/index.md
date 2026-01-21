@@ -20,7 +20,7 @@
 
 </div>
 
-## PhD Students
+## Associated Researchers
 
 <div class="grid cards" markdown>
 
@@ -34,6 +34,23 @@
     Bio paragraph...
 
     [Website](#) | [Scholar](#)
+
+-   ### Jaime Osorio
+
+    ![Photo](../assets/team/phd_2.jpg){ width=150 }
+
+    **Research Focus**: Topic area  
+    **Email**: mail@unal.edu.co
+
+    Bio paragraph...
+
+    [Website](#) | [Scholar](#)
+
+</div>
+
+## PhD Students
+
+<div class="grid cards" markdown>
 
 -   ### Carolina Pachón
 
@@ -74,7 +91,7 @@
 
     [Website](#) | [Scholar](#)
 
--   ### Laura Garzón
+-   ### Natalia Garzón
 
     ![Photo](../assets/team/masters_2.png){ width=150 }
 
@@ -86,6 +103,17 @@
     [Website](#) | [Scholar](#)
 
 -   ### María Alejandra Rodríguez
+
+    ![Photo](../assets/team/phd_1jpg.jpg){ width=150 }
+
+    **Research Focus**: Topic area  
+    **Email**: mail@unal.edu.co
+
+    Bio paragraph...
+
+    [Website](#) | [Scholar](#)
+
+-   ### Daniel Sabogal
 
     ![Photo](../assets/team/phd_1jpg.jpg){ width=150 }
 
