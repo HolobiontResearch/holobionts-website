@@ -3,7 +3,7 @@
 We develop and maintain open-source software tools for microbial ecology and genomics research.
 
 ---
-
+<!--
 ## Bioinformatics Tools
 
 ### [Tool Name 1]
@@ -59,6 +59,7 @@ devtools::install_github("HolobiontResearch/toolname")
 :fontawesome-brands-github: [GitHub Repository](#) | :material-file-document: [Documentation](#)
 
 ---
+-->
 
 ## Pipelines & Workflows
 
@@ -76,7 +77,7 @@ A Snakemake workflow for processing metagenomic sequencing data from raw reads t
 :fontawesome-brands-github: [GitHub Repository](#)
 
 ---
-
+<!--
 ### Amplicon Sequencing Pipeline
 
 Nextflow pipeline for 16S/ITS amplicon sequencing analysis.
@@ -84,6 +85,8 @@ Nextflow pipeline for 16S/ITS amplicon sequencing analysis.
 :fontawesome-brands-github: [GitHub Repository](#)
 
 ---
+
+-->
 
 ## Scripts & Utilities
 
