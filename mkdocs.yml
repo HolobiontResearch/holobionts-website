@@ -109,6 +109,14 @@ extra:
   analytics:
     provider: google
     property: G-150JV6FP1C
+  extra:
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our lab website.
+    actions:
+      - accept
 
 # CSS customization
 extra_css:
