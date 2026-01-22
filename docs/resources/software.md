@@ -63,18 +63,19 @@ devtools::install_github("HolobiontResearch/toolname")
 
 ## Pipelines & Workflows
 
-### Metagenomics Analysis Pipeline
+### PopMAG
 
-A Snakemake workflow for processing metagenomic sequencing data from raw reads to taxonomic and functional profiles.
+A Nextflow pipeline for population genetics analysis based on Metagenome-Assembled Genomes (MAGs). The pipeline processes MAGs alongside paired-end sequencing short reads to perform quality assessment, abundance profiling, variant calling, and population genomics analyses, ending in an interactive visualization dashboard built with R shiny.
 
 **Includes:**
 
-- Quality control and filtering
-- Assembly and binning
-- Taxonomic classification
-- Functional annotation
+- MAG Quality control and preprocessing.
+- Microbial community profiling.
+- Abundance calculation and variant calling.
+- Population genomics and functional analysis.
+- Visualization and reporting.
 
-:fontawesome-brands-github: [GitHub Repository](#)
+:fontawesome-brands-github: [GitHub Repository](https://github.com/daasabogalro/PopMAG)
 
 ---
 <!--
