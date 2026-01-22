@@ -6,14 +6,12 @@ We are committed to open science and make our research data publicly available w
 
 ## Published Datasets
 
-### Microbial Communities in Colombian Agricultural Soils
+### _Theobroma cacao L._ Seed-Borne Microbial Endophytes
 
 !!! info "Dataset Information"
-    **Publication**: [Author et al., 2024, Journal Name](#)  
-    **Data Type**: 16S rRNA amplicon sequencing  
-    **Samples**: 150 soil samples across 5 regions
-
-Amplicon sequencing data from agricultural soils across different farming systems in Colombia.
+    **Publication**: [Toloza-Moreno et al., 2024, Microbial Ecology](https://doi.org/10.1007/s00248-024-02409-9)  
+    **Data Type**: 16S rRNA and ITS amplicon sequencing  
+    **Samples**: 266 samples from different _T. cacao_ genotypes (regional, recently liberates and comercial) and different tissues (roots, leaves, cotyledons and stems). 
 
 **Contents:**
 
@@ -22,39 +20,7 @@ Amplicon sequencing data from agricultural soils across different farming system
 - Sample metadata
 - Analysis scripts
 
-:material-database: [NCBI BioProject: PRJNA000000](#) | :material-download: [Supplementary Data](#) | :fontawesome-brands-github: [Analysis Code](#)
-
----
-
-### Plant Endophyte Genome Collection
-
-!!! info "Dataset Information"
-    **Publication**: [Author et al., 2023, Journal Name](#)  
-    **Data Type**: Whole genome sequences  
-    **Genomes**: 25 endophytic bacterial isolates
-
-Genome sequences of bacterial endophytes isolated from forage crops.
-
-**Contents:**
-
-- Assembled genomes (FASTA)
-- Gene annotations (GFF)
-- Functional predictions
-
-:material-database: [NCBI GenBank](#) | :material-download: [Genome Annotations](#)
-
----
-
-## Data Repositories
-
-Our data is deposited in the following repositories:
-
-| Repository | Data Type | Access |
-|------------|-----------|--------|
-| [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) | Raw sequencing data | Public |
-| [NCBI GenBank](https://www.ncbi.nlm.nih.gov/genbank/) | Genome assemblies | Public |
-| [Figshare](https://figshare.com) | Supplementary files | Public |
-| [Zenodo](https://zenodo.org) | Code & workflows | Public |
+:material-database: [NCBI BioProject: PRJNA1011283](https://www.ncbi.nlm.nih.gov/bioproject/?term=(PRJNA1011283)) | :material-download: [Supplementary Data](https://link.springer.com/article/10.1007/s00248-024-02409-9#Sec18) | :fontawesome-brands-github: [Analysis Code](https://github.com/HolobiontResearch)
 
 ---
 
