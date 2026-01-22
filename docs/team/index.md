@@ -16,7 +16,7 @@
 
     **Bio**: I am an assistant professor in the Department of Biology at the National University of Colombia (Bogotá). I have a degree in microbiology from the Universidad de los Andes, a master's degree from the University of Puerto Rico Recinto Universitario de Mayaguez (UPRM) and a PhD from the Georgia Institute of Techonology (GeorgiaTech). <p>My research focuses on understanding the mechanisms that determine the diversity patterns of microbial communities associated with systems of agricultural and livestock importance, as well as elucidating through genomics and metagenomics the evolutionary adaptations that lead to the strengthening of these associations (e.g., plant endophytes).</p> 
 
-    [Personal Website](#) | [Google Scholar](https://scholar.google.com/citations?user=I9CF3vIAAAAJ&hl=es) | [GitHub](https://github.com/HolobiontResearch)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-google-scholar: Google Scholar](https://scholar.google.com/citations?user=I9CF3vIAAAAJ&hl=es) | [:fontawesome-brands-github: GitHub](https://github.com/HolobiontResearch) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 </div>
 
@@ -33,7 +33,7 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 -   ### Jaime Osorio
 
@@ -44,7 +44,7 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 </div>
 
@@ -61,7 +61,7 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 </div>
 
@@ -78,7 +78,7 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 -   ### Carlos Tejada
 
@@ -89,7 +89,7 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 -   ### Natalia Garzón
 
@@ -100,7 +100,7 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 -   ### María Alejandra Rodríguez
 
@@ -111,18 +111,18 @@
 
     Bio paragraph...
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](#) | [:fontawesome-brands-github: Github](https://github.com/) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/)
 
 -   ### Daniel Sabogal
 
-    ![Photo](../assets/team/phd_1jpg.jpg){ width=150 }
+    ![Photo](../assets/team/masters_2.jpg){ width=150 }
 
-    **Research Focus**: Topic area  
-    **Email**: mail@unal.edu.co
+    **Research Focus**: Bioinformatics and metagenomics  
+    **Email**: daasabogalro@unal.edu.co
 
-    Bio paragraph...
+    My work focuses on developing computational solutions for biological data analysis.
 
-    [Website](#) | [Scholar](#)
+    [:fontawesome-solid-globe: Website](https://daasabogalro.github.io/) | [:fontawesome-brands-github: Github](https://github.com/daasabogalro) | [:fontawesome-brands-linkedin: Linkedin](https://www.linkedin.com/in/daasabogalro/)
 
 </div>
 
@@ -132,4 +132,3 @@
 |------|------|----------------|-------|
 | Diana Contreras | 2024 | Beyond Research Program | email@unal.edu |
 | Stephani Alvarado | 2024 | Beyond Research Program | email@unal.edu |
-| [Student Name] | 2023- | Topic description | email@unal.edu |
