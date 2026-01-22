@@ -108,7 +108,7 @@ extra:
       link: https://www.linkedin.com/in/max-planck-tandem-group-in-holobiont-research/
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-150JV6FP1C
 
 # CSS customization
 extra_css:
