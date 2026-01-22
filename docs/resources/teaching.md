@@ -4,25 +4,26 @@
 
 ### Graduate Courses
 
-#### Microbial Ecology (Graduate Level)
+#### Microbial Ecology
 
 !!! info "Course Information"
-    **Code**: [Course Code]  
-    **Semester**: Fall  
-    **Credits**: 3
+    **Code**: 2018797  
+    **Semester**: First semester of the year  
+    **Credits**: 4
 
-An introduction to the principles of microbial ecology, covering community structure, function, and dynamics in natural and managed ecosystems.
+An introduction to the principles of microbial ecology, covering history, experimental and sampling methods, and the principles of use and bioinformatics analyses of high-throughput sequencing-generated data.
 
 **Topics:**
 
-- Microbial diversity and phylogeny
-- Community assembly and succession
+- Microbial diversity 
 - Microbial interactions
-- Biogeochemical cycling
 - Methods in microbial ecology
+- Bioinformatics analyses of sequencing data
+
+**Prerequisites:** Basic ecology, 
 
 ---
-
+<!--
 #### Bioinformatics for Microbiome Research
 
 !!! info "Course Information"
@@ -44,44 +45,16 @@ Hands-on training in computational methods for analyzing microbiome sequencing d
 **Prerequisites:** Basic statistics, introductory biology
 
 ---
+-->
 
 ### Undergraduate Courses
 
-#### Introduction to Microbiology
+#### Biology of Microorganisms
 
-**Semester**: Fall & Spring  
+**Semester**: Both semesters  
 **Credits**: 4
 
 Fundamentals of microbiology for biology majors.
-
----
-
-## Workshops & Training
-
-### Annual Bioinformatics Workshop
-
-We organize an annual workshop on bioinformatics methods for microbiome research, typically held in [Month].
-
-**Next Workshop**: [Date TBD]
-
-**Topics Covered:**
-
-- Amplicon sequencing analysis
-- Metagenomics
-- Statistical analysis in R
-- Data visualization
-
-[Register Interest](#) | [Past Materials](#)
-
----
-
-### Software Carpentry
-
-Group members regularly participate as instructors in Software Carpentry workshops, teaching:
-
-- Unix Shell
-- Version Control with Git
-- Programming with Python/R
 
 ---
 
@@ -91,14 +64,15 @@ Group members regularly participate as instructors in Software Carpentry worksho
 
 **Textbooks:**
 
-- Madsen, E.L. *Environmental Microbiology: From Genomes to Biogeochemistry*
-- Prosser, J.I. et al. *Methods in Microbial Ecology*
+- David L. Kirchman, *Processes in Microbial Ecology*, Oxford University Press, ISBN: 978-0-19-958692-9
+- Tom Fenchel and Bland J. Finlay, *Ecology and Evolution in Anoxic Worlds*, Oxford University Press, ISBN: 978-0-19-854837-9
 
 **Online Resources:**
 
 - [QIIME2 Tutorials](https://docs.qiime2.org/)
 - [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
 - [Riffomonas Project](https://riffomonas.org/)
+- [Anvi'o](https://anvio.org/learn/)
 
 ---
 
@@ -106,12 +80,12 @@ Group members regularly participate as instructors in Software Carpentry worksho
 
 For students working on their thesis in our group:
 
-1. **Proposal**: Submit a 2-3 page research proposal
-2. **Progress Reports**: Monthly meetings with advisor
-3. **Writing**: Follow [University] thesis format guidelines
-4. **Defense**: Schedule at least 4 weeks in advance
+1. **Proposal**: Submit a 1-2 pages research proposal
+2. **Progress Reports**: Weekly meetings with advisor
+3. **Writing**: Follow [Universidad Nacional de Colombia](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=81071) thesis format guidelines
+4. **Defense**: Schedule group meetings at least 4 weeks in advance
 
-[Download Thesis Template](#)
+[Download Thesis Template](https://www.overleaf.com/latex/templates/plantilla-tesis-trabajo-final-unal-2023/dpzjnmzwmmrg)
 
 ---
 
