@@ -8,7 +8,7 @@ repo_name: HolobiontResearch/holobionts-website
 repo_url: https://github.com/HolobiontResearch/holobionts-website
 
 # Copyright
-copyright: Copyright &copy; 2025 Max Planck Tandem Group in Holobiont Research | Made with ❤️ by <a href="https://linkedin.com/in/daasabogalro">daasabogalro</a>
+copyright: Copyright &copy; 2025 Max Planck Tandem Group in Holobiont Research | Made with ❤️ by <a href="hhttps://github.com/daasabogalro">daasabogalro</a>
 
 # Theme configuration
 theme:
@@ -105,7 +105,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/HolobiontResearch
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/
+      link: https://www.linkedin.com/in/max-planck-tandem-group-in-holobiont-research/
   analytics:
     provider: google
     property: G-XXXXXXXXXX

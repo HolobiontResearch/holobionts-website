@@ -32,4 +32,5 @@ Our lab is located in Building 615, third floor.
 
 Follow us for the latest updates:
 
-- :fontawesome-brands-github: [github.com/HolobiontResearch](https://github.com/HolobiontResearch)
+- :fontawesome-brands-github: [Github](https://github.com/HolobiontResearch)
+- :fontawesome-brands-linkedin: [Linkedin](https://www.linkedin.com/in/max-planck-tandem-group-in-holobiont-research/)
