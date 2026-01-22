@@ -18,7 +18,6 @@ Colombia
 **Prof. Alejandro Caro-Quintero**  
 Email: acaroq@unal.edu.co  
 Office: Building 615, third floor  
-Phone: +1 (XXX) XXX-XXXX
 
 ## Lab Location
 
