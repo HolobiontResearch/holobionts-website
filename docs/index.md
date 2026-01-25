@@ -16,11 +16,11 @@ We are a research group at **Universidad Nacional de Colombia** focused on advan
 ## Research Highlights
 
 !!! success "Recent Achievement"
-    We recently published our work on [topic] in [journal/conference]. [Read more →](research/publications.md)
+    We recently published our work on the factors that determine the microbial diversity in the rizhosphere of the _Theobroma cacao_ wild relatives in [ISME communications](https://academic.oup.com/ismecommun). [Read more →](research/publications.md)
 
-- **Community genetic diversity as a public good for evolution of innovative functions**: [Description]
-- **The genomic basis for cooperation in bacteria**: [Description]
-- **Tools for exploring fine-level diversity in microbial communities**: [Description]
+- **Community genetic diversity as a public good for evolution of innovative functions**
+- **The genomic basis for cooperation in bacteria**
+- **Tools for exploring fine-level diversity in microbial communities**
 
 ## Latest News
 
